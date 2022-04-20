@@ -1,7 +1,31 @@
 # NU_Bootcamp_2022_Project_1
 
-Questions to Answer:
-  1. What city/state has the highest and lowest income?
-	2. Does salary increase with over time? Within their role does salary increase?
-	3. Which company pays their employee the highest and lowest?
-	4. Does education impact salary?
+# Title: "A Deepdive on Salaries"
+
+## **Description:**
+Using the powerful resources within Kaggle, our team sought to find salary information within data science-related occupations. Using this data, our team was able to get an overview on gender and experience demographics within various job fields, along with finding information regarding potential sought-after companies and locations, among more.
+
+
+## Data Source 
+Kaggle: https://www.kaggle.com/datasets/jackogozaly/data-science-and-stem-salaries
+
+## Contributors
+Connor Grant
+
+Alfredo Garica
+
+Yousuf Amin AlFatwa
+
+Neel Patel
+
+## Methods Used
+Dataframes, summary statistics, bar and pie charts, line plots, scatter plots, correlation and regression
+
+## Technologies 
+Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
+
+## Installation
+	source activate PythonData38
+	jupyter notebook
+
+## Analysis / Visualization / Graphs
