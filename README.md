@@ -19,6 +19,8 @@ Yousuf Amin AlFatwa
 Neel Patel
 
 ## Methods Used
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/Project_tools.png)
+
 Dataframes, summary statistics, bar and pie charts, line plots, scatter plots, correlation and regression
 
 ## Technologies 
