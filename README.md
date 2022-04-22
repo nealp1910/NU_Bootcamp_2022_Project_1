@@ -63,3 +63,8 @@ There is no correlation between Gender and Salaries.
 [![Gender-vs-Base-Salary.png](https://i.postimg.cc/qM1mfXFP/Gender-vs-Base-Salary.png)](https://postimg.cc/6yGVnRtc)
 
 [![Gender-vs-Total-Yearly-Compensation.png](https://i.postimg.cc/Hkj6T8DV/Gender-vs-Total-Yearly-Compensation.png)](https://postimg.cc/SnF6rsKh)
+
+
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_Pie.png)
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Vs_education.png)
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Based_on_degrees.png)
