@@ -45,9 +45,11 @@ Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
 [![top-ten-job-locations.png](https://i.postimg.cc/fRbrkgXW/top-ten-job-locations.png)](https://postimg.cc/bsKTBg34)
 
 Data skewed very much to first ten years, signifying that people don't typically stay in jobs for lifetime.
+
 [![Years-In-Company.png](https://i.postimg.cc/3R2LPMM1/Years-In-Company.png)](https://postimg.cc/tZCtxM4n)
 
 Data skewed more evenly in terms of years, barring some outliers.
+
 [![Years-In-Industry.png](https://i.postimg.cc/rschThMk/Years-In-Industry.png)](https://postimg.cc/1nC0cr8C)
 
 STEM is heavily dominated by MALE. 
