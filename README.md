@@ -35,14 +35,24 @@ Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
 1. Salaries DataFrame:
 [![1.jpg](https://i.postimg.cc/Zqnzt5jc/1.jpg)](https://postimg.cc/8720LD2J)
 
+-Using cleaned data frame that removed any base salary counts of zero, a new data frame was built.
+
+
 2. 
 [![top-ten-job-roles.png](https://i.postimg.cc/kXv02bps/top-ten-job-roles.png)](https://postimg.cc/BXtYyXsP)
+
+-Using the cleaned data frame, we were able to find which job titles/roles appeared the most within our data, and could be a further means of interest in seeing which roles these companies are hiring for if they are relevant to our skills.
+
 
 3.
 [![top-ten-hiring-companies.png](https://i.postimg.cc/kXqZP5gb/top-ten-hiring-companies.png)](https://postimg.cc/dDNn8wds)
 
+-Using the cleaned data frame, we were able to find the top 10 companies appeared the most within our data, and could be a further means of interest in seeing which roles these companies are hiring for if they are relevant to our skills.
+
 4.
 [![top-ten-job-locations.png](https://i.postimg.cc/fRbrkgXW/top-ten-job-locations.png)](https://postimg.cc/bsKTBg34)
+
+-Using the cleaned data frame, we were able to find the top 10 locations in this data set.
 
 
 [![Years-In-Company.png](https://i.postimg.cc/3R2LPMM1/Years-In-Company.png)](https://postimg.cc/tZCtxM4n)
