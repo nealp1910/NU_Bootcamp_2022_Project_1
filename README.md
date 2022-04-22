@@ -50,9 +50,13 @@ Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
 [![Years-In-Industry.png](https://i.postimg.cc/rschThMk/Years-In-Industry.png)](https://postimg.cc/1nC0cr8C)
 
 STEM is heavily dominated by MALE. 
+
 [![Genders-In-Stem-Bar-Graph.png](https://i.postimg.cc/90pLQGQq/Genders-In-Stem-Bar-Graph.png)](https://postimg.cc/1V8GWV69)
+
 [![Genders-In-Stem.png](https://i.postimg.cc/jdx8kkM6/Genders-In-Stem.png)](https://postimg.cc/pySYmkby)
 
 There is no correlation between Gender and Salaries. 
+
 [![Gender-vs-Base-Salary.png](https://i.postimg.cc/qM1mfXFP/Gender-vs-Base-Salary.png)](https://postimg.cc/6yGVnRtc)
+
 [![Gender-vs-Total-Yearly-Compensation.png](https://i.postimg.cc/Hkj6T8DV/Gender-vs-Total-Yearly-Compensation.png)](https://postimg.cc/SnF6rsKh)
