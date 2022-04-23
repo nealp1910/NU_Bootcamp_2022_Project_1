@@ -64,6 +64,11 @@ There is no correlation between Gender and Salaries.
 
 [![Gender-vs-Total-Yearly-Compensation.png](https://i.postimg.cc/Hkj6T8DV/Gender-vs-Total-Yearly-Compensation.png)](https://postimg.cc/SnF6rsKh)
 
+## Distribution of jobs in The World and Usa
+
+![World_job_map](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/World_job_map.png)
+![Usa_Job_map](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/Usa_Job_map.png)
+
 ## Distribution of race in jobs 
 
 ![race_as_factor_Pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_Pie.png)
