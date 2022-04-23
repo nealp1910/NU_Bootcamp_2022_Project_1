@@ -43,7 +43,7 @@ Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
 ![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/dataset-cover.png)
 4. Using the cleaned data frame, we were able to find the top 10 locations in this data set.
 [![top-ten-job-locations.png](https://i.postimg.cc/fRbrkgXW/top-ten-job-locations.png)](https://postimg.cc/bsKTBg34)
-![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/Job_HeatMap.png)
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/JOB_MAP.png)
 Data skewed very much to first ten years, signifying that people don't typically stay in jobs for lifetime.
 
 [![Years-In-Company.png](https://i.postimg.cc/3R2LPMM1/Years-In-Company.png)](https://postimg.cc/tZCtxM4n)
