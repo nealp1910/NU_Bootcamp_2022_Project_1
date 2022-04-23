@@ -86,6 +86,7 @@ There is no correlation between Gender and Salaries.
 ![distribution_of_education_pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/distribution_of_education_pie.png)
 
 **The answer is:**
+
 Work experience can make you a good match for a particular job, but you may lack the essential skills for advancement tomorrow without higher education.
 
 ## Relation Between Education Degree and BaseSalary:
