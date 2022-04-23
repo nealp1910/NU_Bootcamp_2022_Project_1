@@ -89,5 +89,4 @@ Work experience can make you a good match for a particular job, but you may lack
 ![basesalary_Vs_education](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Vs_education.png)
 ![basesalary_Vs_education](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Based_on_degrees.png)
 
-**Educational attainment and income are closely correlated, with higher degrees typically leading to higher salaries.
-**
+**Educational attainment and income are closely correlated, with higher degrees typically leading to higher salaries.**
