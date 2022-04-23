@@ -76,6 +76,7 @@ There is no correlation between Gender and Salaries.
 ![race_as_factor_Pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_Pie.png)
 
 ![race_as_factor_bars](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_bars.png)
+
 **Asian has a Dominance in Race Distribution**
 
 ## Relation Between Education Degree  And Job Count 
