@@ -66,13 +66,15 @@ There is no correlation between Gender and Salaries.
 
 
 ![race_as_factor_Pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_Pie.png)
-###Asian has a Dominance in Race Distribution
+### Asian has a Dominance in Race Distribution
 ![race_as_factor_bars](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/race_as_factor_bars.png)
-##Relation Between Education Degree  And Job Count 
+## Relation Between Education Degree  And Job Count 
 
 ![distribution_of_education_bar](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/distribution_of_education_bar.png)
 ![distribution_of_education_pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/distribution_of_education_pie.png)
 
 Work experience can make you a good match for a particular job, but you may lack the essential skills for advancement tomorrow without higher education.
+
+
 ![basesalary_Vs_education](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Vs_education.png)
 ![basesalary_Vs_education](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/basesalary_Based_on_degrees.png)
