@@ -19,7 +19,7 @@ Yousuf Amin AlFatwa
 Neel Patel
 
 ## Methods Used
-![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/Project_tools.png)
+![Project_tools](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/Files_for_ReadMe/Project_tools.png)
 
 Dataframes, summary statistics, bar and pie charts, line plots, scatter plots, correlation and regression
 
@@ -40,7 +40,7 @@ Jupyter Notebook, Pandas, MatPlotLib, Stats, NumPy, Seaborn, Python
 
 3. Using the cleaned data frame, we were able to find the top 10 companies appeared the most within our data, and could be a further means of interest in seeing which roles these companies are hiring for if they are relevant to our skills.
 [![top-ten-hiring-companies.png](https://i.postimg.cc/kXqZP5gb/top-ten-hiring-companies.png)](https://postimg.cc/dDNn8wds)
-![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/dataset-cover.png)
+![alt text](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/Files_for_ReadMe/dataset-cover.png)
 4. Using the cleaned data frame, we were able to find the top 10 locations in this data set.
 [![top-ten-job-locations.png](https://i.postimg.cc/fRbrkgXW/top-ten-job-locations.png)](https://postimg.cc/bsKTBg34)
 
