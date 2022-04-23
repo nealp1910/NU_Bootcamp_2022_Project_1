@@ -77,6 +77,7 @@ There is no correlation between Gender and Salaries.
 ### Asian has a Dominance in Race Distribution
 
 ## Relation Between Education Degree  And Job Count 
+**The Main Question here is: Can Education Replace Experience?**
 
 ![distribution_of_education_bar](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/distribution_of_education_bar.png)
 ![distribution_of_education_pie](https://github.com/nealp1910/NU_Bootcamp_2022_Project_1/blob/main/output_images/distribution_of_education_pie.png)
